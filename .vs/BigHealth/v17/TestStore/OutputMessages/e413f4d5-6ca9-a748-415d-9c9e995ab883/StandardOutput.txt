@@ -1,0 +1,204 @@
+Given Users were able to enter the url in the browser
+-> done: SleepScoreSignupStepDefinitions.GivenUsersWereAbleToEnterTheUrlInTheBrowser() (0.0s)
+When System loads the home page
+-> done: SleepScoreSignupStepDefinitions.WhenSystemLoadsTheHomePage() (0.3s)
+Then validate users were able to Click on Get started Button
+-> done: SleepScoreSignupStepDefinitions.ThenValidateUsersWereAbleToClickOnGetStartedButton() (0.4s)
+Then Select '1' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(1) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '5' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(5) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select '2' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(2) (0.3s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.3s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.3s)
+Then Select '2' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(2) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '3' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(3) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '2' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(2) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '1' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(1) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select '2' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(2) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select 'month' Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen("month") (0.4s)
+Then Select 'month' rd/th option in  Screen from drop down for DOB
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInThirdScreenFromDropDown("month") (0.7s)
+Then Select 'day' Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen("day") (0.4s)
+Then Select 'day' rd/th option in  Screen from drop down for DOB
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInThirdScreenFromDropDown("day") (0.6s)
+Then Select 'year' Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen("year") (0.5s)
+Then Select 'year' rd/th option in  Screen from drop down for DOB
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInThirdScreenFromDropDown("year") (0.8s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '1' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(1) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.3s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.3s)
+Then Select '3' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(3) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select textbox in the screen and enter value '45'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectTextboxInTheScreenAndEnterValue("45") (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then validate Content in the '14' screen
+-> done: SleepScoreSignupStepDefinitions.ThenValidateContentInTheScreen(14) (0.3s)
+Then Select '2' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(2) (0.3s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Field enter value for first name 'Spoorthy'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueforFirstName("Spoorthy") (0.4s)
+Then Select Field enter value for last name 'Giri'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueforLastName("Giri") (0.4s)
+Then Select Field enter value for incorrect email address format
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueForIncorrectEmailAddressFormat() (0.4s)
+Then Select Field enter value for password 'Test@1234'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueforPassword("Test@1234") (0.4s)
+Then Agree to terms and conditions
+-> done: SleepScoreSignupStepDefinitions.ThenAgreeToTermsAndConditions() (0.3s)
+Then Acknowledge to certain things
+-> done: SleepScoreSignupStepDefinitions.ThenAcknowledgeToCertainThings() (0.3s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.3s)
+Then User should see Error message related to email
+-> done: SleepScoreSignupStepDefinitions.ThenUserShouldSeeErrorMessageRelatedtoEmail() (0.3s)
+After Scenario executed for SmokeTest and API tags
+
+
+TestContext Messages:
+Given Users were able to enter the url in the browser
+-> done: SleepScoreSignupStepDefinitions.GivenUsersWereAbleToEnterTheUrlInTheBrowser() (0.0s)
+When System loads the home page
+-> done: SleepScoreSignupStepDefinitions.WhenSystemLoadsTheHomePage() (0.3s)
+Then validate users were able to Click on Get started Button
+-> done: SleepScoreSignupStepDefinitions.ThenValidateUsersWereAbleToClickOnGetStartedButton() (0.4s)
+Then Select '1' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(1) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '5' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(5) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select '2' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(2) (0.3s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.3s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.3s)
+Then Select '2' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(2) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '3' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(3) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '2' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(2) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '1' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(1) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select '2' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(2) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select 'month' Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen("month") (0.4s)
+Then Select 'month' rd/th option in  Screen from drop down for DOB
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInThirdScreenFromDropDown("month") (0.7s)
+Then Select 'day' Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen("day") (0.4s)
+Then Select 'day' rd/th option in  Screen from drop down for DOB
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInThirdScreenFromDropDown("day") (0.6s)
+Then Select 'year' Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen("year") (0.5s)
+Then Select 'year' rd/th option in  Screen from drop down for DOB
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInThirdScreenFromDropDown("year") (0.8s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.4s)
+Then Select '1' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(1) (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.3s)
+Then Select Dropdown in the the screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectDropdownInTheScreen() (0.3s)
+Then Select '3' rd/th option in  Screen from drop down
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreenFromDropDown(3) (0.5s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select textbox in the screen and enter value '45'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectTextboxInTheScreenAndEnterValue("45") (0.4s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then validate Content in the '14' screen
+-> done: SleepScoreSignupStepDefinitions.ThenValidateContentInTheScreen(14) (0.3s)
+Then Select '2' rd/th option in  Screen
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOneOptionInScreen(2) (0.3s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.4s)
+Then Select Field enter value for first name 'Spoorthy'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueforFirstName("Spoorthy") (0.4s)
+Then Select Field enter value for last name 'Giri'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueforLastName("Giri") (0.4s)
+Then Select Field enter value for incorrect email address format
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueForIncorrectEmailAddressFormat() (0.4s)
+Then Select Field enter value for password 'Test@1234'
+-> done: SleepScoreSignupStepDefinitions.ThenSelectFieldEnterValueforPassword("Test@1234") (0.4s)
+Then Agree to terms and conditions
+-> done: SleepScoreSignupStepDefinitions.ThenAgreeToTermsAndConditions() (0.3s)
+Then Acknowledge to certain things
+-> done: SleepScoreSignupStepDefinitions.ThenAcknowledgeToCertainThings() (0.3s)
+Then Select on Continue Button
+-> done: SleepScoreSignupStepDefinitions.ThenSelectOnContinueButton() (0.3s)
+Then User should see Error message related to email
+-> done: SleepScoreSignupStepDefinitions.ThenUserShouldSeeErrorMessageRelatedtoEmail() (0.3s)
